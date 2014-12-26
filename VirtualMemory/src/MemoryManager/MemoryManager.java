@@ -2,7 +2,7 @@ package MemoryManager;
 
 /**
  *
- * @author Dasty
+ * @author Garrison
  */
 public class MemoryManager 
 {

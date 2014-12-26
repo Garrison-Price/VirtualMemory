@@ -8,7 +8,7 @@ import java.nio.channels.FileChannel;
 
 /**
  *
- * @author Dasty
+ * @author Garrison
  */
 public class MemoryFile 
 {
