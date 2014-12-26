@@ -8,6 +8,5 @@ public class MemoryManager
 {
     public MemoryManager()
     {
-        
     }
 }
